@@ -1,0 +1,11 @@
+{
+  "name": "signaling",
+  "version": "1.0.0",
+  "description": "A signaling server to allow the setup of a webrtc connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillaume Baelen",
+  "license": "ISC"
+}
